@@ -1,9 +1,11 @@
-# 42_ft_printf 🇬🇧🇺🇸
+# ft_printf (42 School)
+
+🇬🇧🇺🇸
 
 The ft_printf project focuses on creating a customized version of the printf output formatting function in the C programming language. 
 The project requires a well-organized code structure with clear and modular functions to address various aspects of formatting and argument management.
 
-# 42_ft_printf 🇮🇹
+🇮🇹
 
 Il progetto ft_printf si concentra sulla creazione di una versione personalizzata della funzione di formattazione di output printf in linguaggio C.
 Il progetto richiede una struttura ben organizzata del codice, con funzioni chiare e modulari per affrontare i vari aspetti della formattazione e della gestione degli argomenti.
