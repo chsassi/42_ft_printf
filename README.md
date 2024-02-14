@@ -11,4 +11,4 @@ Il progetto ft_printf si concentra sulla creazione di una versione personalizzat
 Il progetto richiede una struttura ben organizzata del codice, con funzioni chiare e modulari per affrontare i vari aspetti della formattazione e della gestione degli argomenti.
 
 Moulinette: 100/100
-![fb32bc1a-0b30-491b-b48e-0d60ac69d7b0](https://github.com/chsassi/42_ft_printf/assets/146337608/d7a981a6-3cf3-48fe-9186-bbb884d0832f)
+<img width="932" alt="pf" src="https://github.com/chsassi/ft_printf-42/assets/146337608/6dc931df-af7a-4751-a0ec-11f79ef0dda2">
